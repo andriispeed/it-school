@@ -4,7 +4,7 @@
 
 [![Перевірки](https://github.com/andriispeed/it-school/actions/workflows/it-school.yml/badge.svg)](https://github.com/andriispeed/it-school/actions/workflows/it-school.yml)
 
-**[Відкрити сайт](https://telegrambot.vps.webdock.cloud/it-school/)** · [Панель команди](https://telegrambot.vps.webdock.cloud/it-school/admin) · [Swagger API](https://telegrambot.vps.webdock.cloud/it-school/api/docs/) · [Порівняння CR15](https://telegrambot.vps.webdock.cloud/it-school/design)
+**[Відкрити сайт](https://telegrambot.vps.webdock.cloud/it-school/)** · [Панель команди](https://telegrambot.vps.webdock.cloud/it-school/admin)  · [Порівняння CR15](https://telegrambot.vps.webdock.cloud/it-school/design)
 
 ![Головна сторінка IT.SCHOOL](docs/images/it-school-desktop.png)
 
