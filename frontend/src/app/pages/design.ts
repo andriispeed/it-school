@@ -78,15 +78,6 @@ import { Component, signal } from "@angular/core";
             </p>
           </article>
         </div>
-        <div class="section-action action-row">
-          <a
-            class="text-button"
-            href="api/docs/"
-            target="_blank"
-            rel="noopener"
-            >Документація API ↗</a
-          >
-        </div>
       </div>
     </section>`,
 })
